@@ -6,3 +6,11 @@ C:\Users\newbr\Documents\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.Su
 C:\Users\newbr\Documents\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.CoreCompileInputs.cache
 C:\Users\newbr\Documents\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.exe
 C:\Users\newbr\Documents\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.pdb
+C:\Users\Jose\Desktop\Calculadora\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe.config
+C:\Users\Jose\Desktop\Calculadora\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe
+C:\Users\Jose\Desktop\Calculadora\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.pdb
+C:\Users\Jose\Desktop\Calculadora\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\Calculadora\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose\Desktop\Calculadora\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\Calculadora\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.exe
+C:\Users\Jose\Desktop\Calculadora\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.pdb
